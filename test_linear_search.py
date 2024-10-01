@@ -1,7 +1,6 @@
 import unittest
 from linear_search import linear_search
 
-# Test cases for linear_search
 class TestLinearSearch(unittest.TestCase):
 
     def test_needle_in_haystack(self):
